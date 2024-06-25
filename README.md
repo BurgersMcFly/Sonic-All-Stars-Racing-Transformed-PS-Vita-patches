@@ -63,6 +63,7 @@ Replace PCSE00056 and 0xD6A8133B in the patch with yours. Or add it like this:
 ```
 
 ## Credits
+Guides and resources that helped immensely:
 
 1. [VitaGrafix Documentation](https://github.com/Electry/VitaGrafix/wiki/The-VG-Language%E2%84%A2) 
 2. [Make Your Own Patch for VitaGrafix](https://wp.yuki.pet/make-your-own-patch-for-vitagrafix/) 
