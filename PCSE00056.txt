@@ -1,0 +1,7 @@
+# Sonic & All-Stars Racing Transformed
+[PCSE00056, eboot.bin, 0xD6A8133B]
+@IB
+0:0x0485d0 t2_mov(1, 0, ib_w)
+0:0x0485d6 t2_mov(1, 0, ib_h)
+@FPS
+0:0x147e8e t1_mov(0, vblank)
