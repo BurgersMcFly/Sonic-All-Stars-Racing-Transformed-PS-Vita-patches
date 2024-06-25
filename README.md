@@ -3,7 +3,7 @@ VitaGrafix resolution and FPS patches for Sonic &amp; All-Stars Racing Transform
 
 For PCSE00056, game version 1.01.
 
-# Usage
+## Usage
 
 Add these lines in patchlist.txt:
 ```
@@ -25,7 +25,7 @@ IB=OFF
 FPS=OFF
 ```
 
-# Getting ID and NID for your game
+## Getting ID and NID for your game
 
 1. Launch your game. Give it a few seconds to boot up properly and then exit the game. 
 
@@ -53,12 +53,8 @@ Your NID is [MAIN] NID: **0xD6A8133B**.
 
 Replace PCSE00056 and 0xD6A8133B with yours.
 
-# Credits
+## Credits
 
 [VitaGrafix Documentation](https://github.com/Electry/VitaGrafix/wiki/The-VG-Language%E2%84%A2)
-
-Guides I used:
-1. [Make Your Own Patch for VitaGrafix](https://wp.yuki.pet/make-your-own-patch-for-vitagrafix/)
-2. [Getting resolution addresses for vitaRescale](https://wololo.net/talk/viewtopic.php?t=48713)
-
-
+[Make Your Own Patch for VitaGrafix](https://wp.yuki.pet/make-your-own-patch-for-vitagrafix/)
+[Getting resolution addresses for vitaRescale](https://wololo.net/talk/viewtopic.php?t=48713)
