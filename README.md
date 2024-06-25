@@ -56,12 +56,11 @@ Replace PCSE00056 and 0xD6A8133B with yours.
 
 ## Credits
 
-1.[VitaGrafix Documentation](https://github.com/Electry/VitaGrafix/wiki/The-VG-Language%E2%84%A2) 
+1. [VitaGrafix Documentation](https://github.com/Electry/VitaGrafix/wiki/The-VG-Language%E2%84%A2) 
 
-2.[Make Your Own Patch for VitaGrafix](https://wp.yuki.pet/make-your-own-patch-for-vitagrafix/) 
+2. [Make Your Own Patch for VitaGrafix](https://wp.yuki.pet/make-your-own-patch-for-vitagrafix/) 
 
-3.[Getting resolution addresses for vitaRescale](https://wololo.net/talk/viewtopic.php?t=48713) 
+3. [Getting resolution addresses for vitaRescale](https://wololo.net/talk/viewtopic.php?t=48713) 
 
-4.[Elecry Explanation](https://github.com/Electry/VitaGrafix/issues/112) 
-
-5.[VGi plugin](https://github.com/Electry/VGi) 
+4. [Elecry Explanation](https://github.com/Electry/VitaGrafix/issues/112) 
+5. [VGi plugin](https://github.com/Electry/VGi) 
