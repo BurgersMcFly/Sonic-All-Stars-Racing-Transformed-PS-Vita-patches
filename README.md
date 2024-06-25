@@ -51,7 +51,16 @@ VitaGrafix v5.0.2
 Your title ID is [MAIN] Title ID: **PCSE00056**.
 Your NID is [MAIN] NID: **0xD6A8133B**.
 
-Replace PCSE00056 and 0xD6A8133B with yours.
+Replace PCSE00056 and 0xD6A8133B in the patch with yours. Or add it like this:
+```
+[PCSE00056, eboot.bin, 0xD6A8133B] # [US 1.01]
+[PCS1234, eboot.bin, 0x1234] # [XX 1.01]
+@IB
+0:0x0485d0 t2_mov(1, 0, ib_w)
+0:0x0485d6 t2_mov(1, 0, ib_h)
+@FPS
+0:0x147e8e t1_mov(0, vblank)
+```
 
 ## Credits
 
