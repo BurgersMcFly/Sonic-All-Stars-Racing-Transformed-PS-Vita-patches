@@ -25,7 +25,6 @@ FPS=OFF
 ```
 
 ## Getting ID and NID for your game
-Taken from [Make Your Own Patch for VitaGrafix](https://wp.yuki.pet/make-your-own-patch-for-vitagrafix/).
 
 1. Launch your game. Give it a few seconds to boot up properly and then exit the game. 
 
